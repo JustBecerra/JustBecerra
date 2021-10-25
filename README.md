@@ -16,13 +16,13 @@ JavaScript</br>
 TypeScript
 
 ## Backend
-NodeJs
-Express
-PostgresSQL
+NodeJs</br>
+Express</br>
+PostgresSQL</br>
 Sequelize
 
 ## Frontend
-ReactJs
+ReactJs</br>
 Redux
 
 
