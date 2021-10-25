@@ -1,6 +1,7 @@
 <h1 align="center">Hello there! I'm Justo Becerra :wave:</h1>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justo-juan-becerra-14868a1b4/)](https://www.linkedin.com/in/justo-juan-becerra-14868a1b4/)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:justj.becerra@gmail.com)](mailto:justj.becerra@gmail.com)
 <!--
 **JustBecerra/JustBecerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
