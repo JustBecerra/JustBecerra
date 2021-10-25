@@ -5,14 +5,14 @@
 
 ## About Me 
 
-Hey there! . I'm a 21-year-old junior fullstack web developer from La Plata, Buenos Aires, currently residing there. I just finished a Full Stack Developer Program at SoyHenry. I'm looking forward to working with sharp-minded people so we can tinker and create fascinating projects and push each other into improving ourselves, not only as people, but as developers as well. 
+ I'm a 21-year-old junior fullstack web developer from La Plata, Buenos Aires, currently residing there. I just finished a Full Stack Developer Program at SoyHenry. I'm looking forward to working with sharp-minded people so we can tinker and create fascinating projects and push each other into improving ourselves, not only as people, but as developers as well. 
 
-My goals are to expand my knowledge and work in a north american company since they have one of the most brilliant programmers, however the nationality of the company is not a deal breaker.
+My goals are to expand my knowledge and work abroad to discover new cultures around the world.
 
 ## Technologies i work with:
 
 ## Languages
-JavaScript
+JavaScript</br>
 TypeScript
 
 ## Backend
