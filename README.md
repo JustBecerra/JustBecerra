@@ -5,7 +5,7 @@
 
 ## About Me 
 
- I'm a 22-year-old fullstack web developer from La Plata, Buenos Aires, currently residing there. I believe in positivity and teamwork. I'm looking forward to working with sharp-minded people so we can tinker and create fascinating projects and push each other into improving ourselves, not only as people, but as developers as well. 
+ I'm a 23-year-old fullstack web developer from La Plata, Buenos Aires, currently residing there. I believe in positivity and teamwork. I'm looking forward to working with sharp-minded people so we can tinker and create fascinating projects and push each other into improving ourselves, not only as people, but as developers as well. 
 
 My goals are to expand my knowledge and work abroad to discover new cultures around the world.
 
@@ -13,11 +13,13 @@ My goals are to expand my knowledge and work abroad to discover new cultures aro
 
 ## Languages
 JavaScript</br>
-TypeScript
+TypeScript</br>
+Golang
 
 ## Backend
 NodeJs</br>
 Express</br>
+Gin</br>
 PostgresSQL</br>
 Sequelize
 
