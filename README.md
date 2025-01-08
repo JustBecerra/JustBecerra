@@ -27,7 +27,8 @@ Sequelize
 ReactJs</br>
 NextJs</br>
 Redux ToolKit</br>
-React Native
+React Native</br>
+Astro
 
 
 <!--
